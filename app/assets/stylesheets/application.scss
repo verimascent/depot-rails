@@ -82,3 +82,14 @@
     padding: 0.5em;
   }
 }
+
+.notice, #notice {
+  background: #ffb;
+  border-radius: 0.5rem;
+  border: solid 0.177rem #882;
+  color: #882;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  padding: 1rem 1.414rem;
+  text-align: center;
+}
